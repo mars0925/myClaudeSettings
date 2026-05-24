@@ -4,6 +4,7 @@
       "Read(**/xcuserdata/**)",
       "Write(**/xcuserdata/**)",
       "Edit(**/xcuserdata/**)",
+      "Read(**/.env)",
       "Edit(**/.env)",
       "Bash(rm -rf *)",
       "Bash(sudo *)",
